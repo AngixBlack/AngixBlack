@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Angix Black</h1>
-<h3 align="center">Offensive Security | Pentester | Bug Bounty Hunter | Tool & Malware Developer from Egypt</h3>
+<h3 align="center"> Offensive Security | Pentester | Bug Bounty Hunter | Software Developer from Egypt</h3>
 
 <div align="center">
   <img align="right" alt="Pentesting" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R5bWNkM2p3c2RpeHl6Z2hxeWJpN3hhcG16emJkamYxZnI2bmIybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.webp" >
