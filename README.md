@@ -20,8 +20,6 @@
 - 🔭 I’m currently working on **Building Automated Tools**
 - 🌱 I’m currently learning **Reverse Engineering and Assembly**
 - 💬 Ask me about **Security, Programming, Web Pentesting**
-- 📫 How to reach me: **angixblack@gmail.com**
-- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/amr-offsec/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/angixblack" target="blank">
