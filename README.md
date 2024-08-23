@@ -49,7 +49,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,github,vscode,html,css,js" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,nodejs,mysql,aws,dotnet,go,mongodb,bootstrap,linux" />
+    <img src="https://skillicons.dev/icons?i=bash,nodejs,mysql,aws,dotnet,go,mongodb,bootstrap,linux," />
 </div>
 
 <br/>
