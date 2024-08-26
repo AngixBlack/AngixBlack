@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FF00&lines=+I'm+Angix+Black!+👋;+Offensive+Security;+Pentester;+Bug+Bounty+Hunter;+Software+Developer;+from+Egypt" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00FF00&lines=+I'm+Angix+Black!+👋;+Offensive+Security;+Pentester;+Bug+Bounty+Hunter;+Software+Developer;+From+Egypt" />
 </h1>
 
 <div align="center">
