@@ -18,7 +18,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Building Automated Tools**
+- 🔭 I’m currently working on **Nothing :D **
 - 🌱 I’m currently learning **Reverse Engineering and Assembly**
 - 💬 Ask me about **Security, Programming, Web Pentesting**
 <h3 align="left">Connect with me:</h3>
