@@ -68,8 +68,10 @@
 
 <h3 align="center">Support:</h3>
 <div align="center">
-  <a href="https://www.buymeacoffee.com/angixblack" target="_blank">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=angixblack&button_colour=FFDD00&font_colour=000000&font_family=Roboto&outline_colour=000000&coffee_colour=ffffff" alt="angixblack" />
+  <a href="https://paypal.me/AngixBlack" target="_blank">
+    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
   </a>
 </div>
+
+
 
