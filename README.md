@@ -69,9 +69,10 @@
 <h3 align="center">Support:</h3>
 <div align="center">
   <a href="https://paypal.me/AngixBlack" target="_blank">
-    <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="Donate with PayPal" />
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="Donate with PayPal" />
   </a>
 </div>
+
 
 
 
