@@ -35,7 +35,7 @@
   <a href="https://instagram.com/angixblack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="angixblack" height="30" width="40" />
   </a>
-  <a href="https://medium.com/@amradrian" target="blank">
+  <a href="https://angixblack.medium.com" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@amradrian" height="30" width="40" />
   </a>
   <a href="https://www.youtube.com/@angixblack" target="blank">
