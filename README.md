@@ -26,10 +26,10 @@
   <a href="https://twitter.com/angixblack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angixblack" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/amr-offsec" target="blank">
+  <a href="[https://www.linkedin.com/in/angixblack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-offsec" height="30" width="40" />
   </a>
-  <a href="https://fb.com/amradrian1" target="blank">
+  <a href="https://fb.com/angixblack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amradrian1" height="30" width="40" />
   </a>
   <a href="https://instagram.com/angixblack" target="blank">
@@ -49,7 +49,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,java,c,cpp,cs,github,vscode,html,css,js" /><br>
-    <img src="https://skillicons.dev/icons?i=bash,nodejs,mysql,aws,dotnet,go,mongodb,bootstrap,linux," />
+<img src="https://skillicons.dev/icons?i=bash,nodejs,mysql,aws,dotnet,go,mongodb,bootstrap,linux,php,laravel" />
 </div>
 
 <br/>
@@ -66,12 +66,18 @@
 </div>
 
 
-<h3 align="center">Support:</h3>
+<h2 align="center">💖 Support My Work</h2>
+<p align="center">If you'd like to support me, you can donate via PayPal!</p>
+
 <div align="center">
-  <a href="https://paypal.me/AngixBlack" target="_blank">
-    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="Donate with PayPal" />
+  <a href="https://paypal.me/AngixBlack" target="_blank" style="text-decoration: none;">
+    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="Donate with PayPal" style="width: 200px; height: auto; border: none; margin: 10px;"/>
   </a>
 </div>
+
+<p align="center"><strong>Thank you!</strong></p>
+
+
 
 
 
