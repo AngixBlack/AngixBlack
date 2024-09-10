@@ -26,7 +26,7 @@
   <a href="https://twitter.com/angixblack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="angixblack" height="30" width="40" />
   </a>
-  <a href="[https://www.linkedin.com/in/angixblack" target="blank">
+  <a href="https://www.linkedin.com/in/angixblack" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr-offsec" height="30" width="40" />
   </a>
   <a href="https://fb.com/angixblack" target="blank">
