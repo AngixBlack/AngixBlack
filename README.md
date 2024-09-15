@@ -56,14 +56,21 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats & Activity ⚡</h2>
 <br>
 <div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Angix-Black&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Angix-Black&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <!-- Streak Stats -->
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AngixBlack&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
+  <!-- GitHub Stats -->
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AngixBlack&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Angix-Black&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <!-- Top Languages -->
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AngixBlack&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
+  <br/><br/>
+  <!-- Trophy Section -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AngixBlack&theme=dracula&no-frame=true&column=4" alt="Trophies" />
 </div>
+
 
 
 <h2 align="center">💖 Support My Work</h2>
