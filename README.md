@@ -1,5 +1,6 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF0000&lines=I+no+longer+exist..." />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00FF00&lines=👋+Welcome+I'm+Angix+Black;💻+Cyber+Security+Engineer;🛠️+Software+Developer;🌍+From+Egypt" />
+
 </h1>
 
 <div align="center">
