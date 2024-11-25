@@ -1,4 +1,6 @@
 <h1 align="center">
+<img src="https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzI1MzcxODAsIm5iZiI6MTczMjUzNjg4MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDExMjUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMTI1VDEyMTQ0MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTdmNGY5MDFlMjBiZjEwOWM5N2M3ZjJlY2EzYzRjMjY2MWM0MDYxYzllZjUxNmIxZDUyNTk0NmVhYTg0MjFlMDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u45GEMRfdgA51qUP9Wr97xrZqe07ftKAJlBnOVQAt6A" alt="Cover Image" width="100%" />
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&color=00FF00&lines=👋+Welcome+I'm+Angix+Black;💻+Cyber+Security+Engineer;🛠️+Software+Developer;🌍+From+Egypt" />
 
 </h1>
