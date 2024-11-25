@@ -4,11 +4,11 @@
 </h1>
 
 <div align="center">
-  <img align="right" alt="Pentesting" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2R5bWNkM2p3c2RpeHl6Z2hxeWJpN3hhcG16emJkamYxZnI2bmIybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KmHueA88mFABT9GkkR/giphy.webp" >
+<img align="right" alt="Pentesting" width="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=angix-black&label=Profile%20views&color=0e75b6&style=flat" alt="angix-black" />
+<img src="https://komarev.com/ghpvc/?username=angix-black&label=%20Angix%20Profile%20Views%20&color=00bfff&style=flat" alt="Angix Black Profile Views" />
 </p>
 
 
