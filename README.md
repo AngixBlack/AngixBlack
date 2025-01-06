@@ -8,9 +8,7 @@
 <img align="right" alt="Pentesting" width="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" />
 </div>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=angix-black&label=%20Angix%20Profile%20Views%20&color=00bfff&style=flat" alt="Angix Black Profile Views" />
-</p>
+
 
 
 
