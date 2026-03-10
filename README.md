@@ -57,33 +57,38 @@
 
 
 <h2 align="center">⚡ GitHub Stats & Activity ⚡</h2>
-<br>
-<div align="center">
-  <!-- Streak Stats -->
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AngixBlack&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats"/>
-  <!-- GitHub Stats -->
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=AngixBlack&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
-  <br/>
-  <!-- Top Languages -->
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AngixBlack&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" />
-  <br/><br/>
+
+<p align="center">
+
+<img width="400" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=AngixBlack&count_private=true&theme=react&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" />
+
+<img width="400" src="https://github-readme-stats-salesp07.vercel.app/api?username=AngixBlack&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+
+</p>
+
+<p align="center">
+
+<img width="420" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=AngixBlack&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10" />
+
+</p>
 
 
 
+<h2 align="center">☕ Support My Work</h2>
 
-<h2 align="center">💖 Support My Work</h2>
-<p align="center">If you'd like to support me, you can donate via PayPal!</p>
+<p align="center">
+If you find this project useful, consider supporting me by buying me a coffee.
+</p>
 
-<div align="center">
-  <a href="https://paypal.me/AngixBlack" target="_blank" style="text-decoration: none;">
-    <img src="https://www.paypalobjects.com/webstatic/en_US/i/buttons/checkout-logo-large.png" alt="Donate with PayPal" style="width: 200px; height: auto; border: none; margin: 10px;"/>
+<p align="center">
+  <a href="https://buymeacoffee.com/AngixBlack" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60" alt="Buy Me A Coffee">
   </a>
-</div>
+</p>
 
-<p align="center"><strong>Thank you!</strong></p>
-
-
-
+<p align="center">
+  <sub>Thank you for supporting the project 💛</sub>
+</p>
 
 
 
