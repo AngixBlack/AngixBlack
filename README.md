@@ -86,9 +86,6 @@ If you find this project useful, consider supporting me by buying me a coffee.
   </a>
 </p>
 
-<p align="center">
-  <sub>Thank you for supporting the project 💛</sub>
-</p>
 
 
 
