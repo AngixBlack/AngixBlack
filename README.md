@@ -76,9 +76,6 @@
 
 <h2 align="center">☕ Support My Work</h2>
 
-<p align="center">
-If you find this project useful, consider supporting me by buying me a coffee.
-</p>
 
 <p align="center">
   <a href="https://buymeacoffee.com/AngixBlack" target="_blank">
